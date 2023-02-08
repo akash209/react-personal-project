@@ -1,0 +1,16 @@
+.footer {
+	width: 100%;
+	height: 200px;
+	background-color: blue;
+}
+
+.Footerimage {
+	width: 200px;
+	height: 150px;
+	margin-top: 15px;
+}
+
+.footing {
+	justify-content: space-between;
+	display: flex;
+}
